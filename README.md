@@ -12,9 +12,9 @@ A Proper Purple Theme for VS Code.
 
 ## Deployment
 
--You can grab a copy on GitHub @ https://github.com/sirpeebs/properple-theme/
+- You can grab a copy on GitHub @ https://github.com/sirpeebs/properple-theme/
 
--In the Visual Studio Market Place @ https://marketplace.visualstudio.com/items?itemName=properup.properple-theme
+- In the Visual Studio Market Place @ https://marketplace.visualstudio.com/items?itemName=properup.properple-theme
 
 - Or, you can search "Properple Theme" in the Extensions Marketplace that's inside Visual Studio Code and install it that way!
 
