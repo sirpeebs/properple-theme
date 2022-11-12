@@ -27,7 +27,7 @@ A Proper Purple Theme for VS Code.
 
 
 
-![Logo](https://fastfile.cloud/properle-theme/icon.png)
+![Logo](https://fastfile.cloud/properple-theme/icon.png)
 - [https://www.github.com/sirpeebs](https://www.github.com/sirpeebs)
 - Adam J. // Nov, 2022
 
